@@ -52,7 +52,7 @@
 
 ### 📫 Connect with me
 <p align="left">
-  <a href="DEIN_LINK_HIER">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo" />
+  <a href="https://www.linkedin.com/in/jennifer-petrus-5b2b43196/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>

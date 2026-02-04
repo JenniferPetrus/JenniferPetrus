@@ -13,8 +13,6 @@
   <ins>&nbsp;</ins>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rxjs/rxjs-original.svg" height="40" alt="rxjs logo" />
   <ins>&nbsp;</ins>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" />
-  <ins>&nbsp;</ins>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
   <ins>&nbsp;</ins>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />

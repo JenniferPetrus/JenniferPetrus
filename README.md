@@ -9,9 +9,8 @@
 I'm a passionate developer from Germany with a strong focus on modern frontend architectures and high-performance backends. I love turning complex problems into clean, maintainable code. 
 
 **About me & what I'm up to:**
-- 🔭 **Currently working on:** Enterprise desktop applications using **Angular** and **Tauri (Rust)**.
-- 🌱 **Currently learning:** Deep diving into advanced **Rust**, **Docker**, and Cloud Infrastructure.
-- 🚐 **Fun Fact:** I'm converting a Fiat Ducato L3H3 into an off-grid mobile office to transition into a 100% remote digital nomad lifestyle. 
+- 🔭 **Currently working on:** Enterprise desktop applications using **Angular** and **Laravel**.
+- 🌱 **Currently learning:** Deep diving into advanced **Rust**, **Docker**, and **Cloud Infrastructure**.
 
 ---
 

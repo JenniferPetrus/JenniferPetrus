@@ -1,5 +1,5 @@
 # Hi 👋! My name is Jenny
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=DEIN_NAME&layout=compact&theme=radical)](https://wakatime.com/@DEIN_NAME)
+[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=JenniferPetrus&layout=compact&theme=radical&v=1)](https://wakatime.com/@JenniferPetrus)
 ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
 
 <p align="left">

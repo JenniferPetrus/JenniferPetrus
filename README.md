@@ -1,5 +1,7 @@
 # Hi 👋! My name is Jenny
-[![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=Sheniiiq&layout=compact&theme=radical&nocache=1)](https://wakatime.com/@Sheniiiq)
+
+HTML
+
 ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
 
 <p align="left">

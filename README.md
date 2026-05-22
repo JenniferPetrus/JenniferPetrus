@@ -43,6 +43,76 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 ---
 
  <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-20%20mins-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 170.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 69 Contributions in the Year 2026
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 18 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                129 commits         █████████░░░░░░░░░░░░░░░░   36.75 % 
+🌆 Daytime                115 commits         ████████░░░░░░░░░░░░░░░░░   32.76 % 
+🌃 Evening                103 commits         ███████░░░░░░░░░░░░░░░░░░   29.34 % 
+🌙 Night                  4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Tuesday                  59 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+Wednesday                76 commits          █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
+Thursday                 69 commits          █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
+Friday                   66 commits          █████░░░░░░░░░░░░░░░░░░░░   18.80 % 
+Saturday                 4 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Sunday                   18 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Berlin
+
+💬 Programming Languages: 
+Rust                     18 mins             ██████████████████████░░░   87.94 % 
+Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+
+🔥 Editors: 
+VS Code                  20 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Linux                    20 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in PHP** 
+
+```text
+PHP                      8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JenniferPetrus/JenniferPetrus/main/assets/bar_graph.png)
+
+
+ Last Updated on 22/05/2026 07:29:56 UTC
 <!--END_SECTION:waka-->
 
 

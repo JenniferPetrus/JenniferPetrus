@@ -1,7 +1,5 @@
 # Hi 👋! My name is Jenny
 
-HTML
-
 ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
 
 <p align="left">
@@ -43,6 +41,10 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 </p>
 
 ---
+
+``
+``
+
 
 ### 📫 Let's Connect!
 <p align="left">

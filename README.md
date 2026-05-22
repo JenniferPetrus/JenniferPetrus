@@ -42,8 +42,8 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 
 ---
 
-``
-``
+ <!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 ### 📫 Let's Connect!

@@ -1,6 +1,12 @@
+<div align="center">
+
 # Hi 👋! My name is Jenny
 
 ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
+
+*Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
+
+</div>
 
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=JenniferPetrus.JenniferPetrus&" alt="visitor badge"/>

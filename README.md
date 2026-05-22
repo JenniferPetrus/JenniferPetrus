@@ -43,17 +43,20 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 ---
 
  <!--START_SECTION:waka-->
-📊 **This Week I Spent My Time On** 
+**I Mostly Code in PHP** 
 
 ```text
-💬 Programming Languages: 
-Rust                     18 mins             ██████████████████████░░░   87.94 % 
-Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+PHP                      8 repos             ████████░░░░░░░░░░░░░░░░░   30.77 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Blade                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
- Last Updated on 22/05/2026 07:34:32 UTC
+
+
+ Last Updated on 22/05/2026 07:38:37 UTC
 <!--END_SECTION:waka-->
 
 

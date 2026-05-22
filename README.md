@@ -43,6 +43,15 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 ---
 
  <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Rust                     18 mins             ██████████████████████░░░   87.94 % 
+Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+```
+
 **I Mostly Code in PHP** 
 
 ```text
@@ -56,7 +65,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/05/2026 07:38:37 UTC
+ Last Updated on 22/05/2026 07:43:21 UTC
 <!--END_SECTION:waka-->
 
 

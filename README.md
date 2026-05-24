@@ -53,9 +53,11 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 
 ```text
 💬 Programming Languages: 
-Rust                     18 mins             ██████████████████████░░░   87.94 % 
-Git Config               2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
+Rust                     24 mins             ███████████░░░░░░░░░░░░░░   43.40 % 
+TypeScript               11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+HTML                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
+CSS                      4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -71,7 +73,7 @@ Blade                    1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/05/2026 01:47:57 UTC
+ Last Updated on 24/05/2026 01:54:23 UTC
 <!--END_SECTION:waka-->
 
 

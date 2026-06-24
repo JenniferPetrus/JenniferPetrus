@@ -53,7 +53,11 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+HTML                     1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   36.75 % 
+TypeScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
+Rust                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
+CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
 ```
 
 **I Mostly Code in PHP** 
@@ -69,7 +73,7 @@ Python                   1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/06/2026 01:55:06 UTC
+ Last Updated on 24/06/2026 01:53:38 UTC
 <!--END_SECTION:waka-->
 
 

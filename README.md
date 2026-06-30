@@ -6,14 +6,7 @@
 
 *Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
 <!--START_SECTION:countdown-->
-### ⏱️ Apprenticeship Countdown
-
-<p align="left">
-    ⏳ **Time until Graduation (Est. June 2027):**
-    Approximately **12 months and 0 days** remaining! 🚀
-    <br />
-    <code>███████████░░░░░░░░░░░░░░</code> **45.5 %** completed
-</p>
+⏳ **Time until Graduation (Est. June 2027):**<br />Approximately **12 months** and **5 days** remaining! 🚀<br /><code>███████████░░░░░░░░░░░░░░</code> **45.3 %** completed
 <!--END_SECTION:countdown-->
 
 </div>

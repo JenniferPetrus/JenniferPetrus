@@ -1,0 +1,30 @@
+name: Update Countdown
+
+on:
+  schedule:
+    # Läuft jeden Tag um 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Erlaubt dir, die Action auch manuell über den GitHub-Tab "Actions" zu starten
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Run countdown script
+        run: python update_countdown.py
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m "chore: update ausbildung countdown" || echo "No changes to commit"
+          git push

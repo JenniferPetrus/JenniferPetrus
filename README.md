@@ -5,6 +5,9 @@
 ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
 
 *Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
+<!--START_SECTION:countdown-->
+⏳ **Ausbildungscountdown:** Wird berechnet...
+<!--END_SECTION:countdown-->
 
 </div>
 

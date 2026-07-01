@@ -58,27 +58,23 @@ I'm a passionate developer from Germany with a strong focus on modern frontend a
 
 ```text
 💬 Programming Languages: 
-HTML                     1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   36.75 % 
-TypeScript               1 hr 5 mins         ███████░░░░░░░░░░░░░░░░░░   26.80 % 
-Rust                     49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-CSS                      23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.63 % 
-JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in PHP** 
 
 ```text
-PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63 % 
-TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+PHP                      8 repos             ███████░░░░░░░░░░░░░░░░░░   28.57 % 
+TypeScript               3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+Python                   2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
+Rust                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
 ```
 
 
 
 
- Last Updated on 30/06/2026 01:58:04 UTC
+ Last Updated on 01/07/2026 02:03:47 UTC
 <!--END_SECTION:waka-->
 
 

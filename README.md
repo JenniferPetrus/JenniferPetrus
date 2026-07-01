@@ -5,6 +5,7 @@
   ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
   
   *Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
+  <br /><br />
   ⏳ **Time until Graduation (Est. June 2027):**<br />
   Approximately **12 months** and **4 days** remaining! 🚀<br /><br />
   

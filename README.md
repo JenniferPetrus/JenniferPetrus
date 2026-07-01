@@ -1,14 +1,14 @@
 <div align="center">
-
-# Hi 👋! My name is Jenny
-
-### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
-
-*Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
-<!--START_SECTION:countdown-->
-⏳ **Time until Graduation (Est. June 2027):**<br />Approximately **12 months** and **4 days** remaining! 🚀<br><code>███████████░░░░░░░░░░░░░░</code> **45.4 %** completed
-<!--END_SECTION:countdown-->
-
+  
+  # Hi 👋! My name is Jenny
+  
+  ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
+  
+  *Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
+  ⏳ **Time until Graduation (Est. June 2027):**<br />
+  Approximately **12 months** and **4 days** remaining! 🚀<br /><br />
+  
+  <code>███████████░░░░░░░░░░░░░░</code> **45.4 %** completed
 </div>
 
 <p align="left">

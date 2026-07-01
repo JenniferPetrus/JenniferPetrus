@@ -1,8 +1,8 @@
 <div align="center">
 
-  # Hi 👋! My name is Jenny
-  
-  ### 👩‍💻 Full-Stack Developer | Building for the Web & Desktop
+  <a href="https://portfolio.jennifer-petrus.de/" target="_blank">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00E676&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Jenny+👋;Full-Stack+Developer;Building+for+Web+%26+Desktop" alt="Typing SVG" />
+  </a>
   
   *Currently an Apprentice Application Developer (Fachinformatikerin für Anwendungsentwicklung) — Graduating Mid-2027*
   ⏳ **Time until Graduation (Est. June 2027):**<br />
